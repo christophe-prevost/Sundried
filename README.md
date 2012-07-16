@@ -1,7 +1,20 @@
-[Sundried][homepage] is a colour scheme for [Sublime Text 2][st2]. It is
-intended to feel cosy, and to be simple: seven distinct colours are applied to
-eight generic syntax-highlighting scopes and there are no language-specific
-specialisations.
+[Sundried][homepage] is a colour scheme for [Sublime Text 2][st2].  I created
+it because I found most dark schemes out there (including Sublime's default) to
+look too "glowing neon".
+
+It has a simple definition that colours the following generic scopes:
+
+* keyword
+* storage
+* support
+* string
+* comment
+* constant
+* entity
+* invalid
+
+There are currently no language-specific specialisations. If you would like to
+propose some, you are welcome to send a GitHub pull request.
 
 ![Screenshot](https://github.com/frou/Sundried/raw/master/screenshot.png)
 
