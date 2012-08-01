@@ -31,10 +31,7 @@
                 <string>#ffffff</string>
 
                 <key>lineHighlight</key>
-                <string>#444444</string>
-
-                <key>activeGuide</key>
-                <string>#ad9361</string>
+                <string>#3f3938</string>
 
                 <key>selection</key>
                 <string>#3f3938</string>
@@ -47,6 +44,9 @@
 
                 <key>findHighlightForeground</key>
                 <string>#000000</string>
+
+                <key>activeGuide</key>
+                <string>#ad9361</string>
 
                 <!-- Hints of Enclosing Brackets / SGML Tags -->
                 <key>bracketsForeground</key>
