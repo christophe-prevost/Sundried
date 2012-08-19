@@ -2,8 +2,11 @@
 because I found most dark schemes out there (including Sublime's default) to
 look too "glowing neon".
 
-It has a simple definition covering the general text-editing elements as well
-as the [root groups][tmlang].
+It has a simple definition that colours:
+
+* The language-independent [root groups][tmlang].
+* Sublime's various highlights, including current lines, selections and find
+matches.
 
 ![Screenshot](https://github.com/frou/Sundried/raw/master/screenshot.png)
 

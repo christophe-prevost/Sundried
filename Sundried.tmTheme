@@ -95,7 +95,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#9260a1</string>
+                <string>#ae7337</string>
             </dict>
         </dict>
 
@@ -132,7 +132,7 @@
                 <!-- Same as Storage. -->
                 <!-- Rationale: Markup is "type"-like information. -->
                 <key>foreground</key>
-                <string>#ae7337</string>
+                <string>#ad9361</string>
             </dict>
         </dict>
 
@@ -147,7 +147,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#ae7337</string>
+                <string>#ad9361</string>
             </dict>
         </dict>
 
@@ -169,7 +169,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#ad9361</string>
+                <string>#8e7197</string>
             </dict>
         </dict>
 
