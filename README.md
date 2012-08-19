@@ -2,11 +2,11 @@
 because I found most dark schemes out there (including Sublime's default) to
 look too "glowing neon".
 
-It has a simple definition that colours:
+It has a simple definition that styles:
 
-* The language-independent [root groups][tmlang].
-* Sublime's various highlights, including current lines, selections and find
-matches.
+* The language-independent [root groups][tmlang] for text and source code.
+* Sublime's various visual cues in the text area, including matched brackets
+and line / selection / find highlights.
 
 ![Screenshot](https://github.com/frou/Sundried/raw/master/screenshot.png)
 
